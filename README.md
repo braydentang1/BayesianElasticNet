@@ -1,2 +1,2 @@
 # BayesianElasticNet
-Experimenting with Bayesian Elastic Nets in Stan
+Experimenting with Bayesian Elastic Nets in Stan/JAGS.
